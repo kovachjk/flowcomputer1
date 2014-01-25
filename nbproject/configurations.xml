@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configurationDescriptor version="62">
+  <logicalFolder name="root" displayName="root" projectFiles="true">
+    <logicalFolder name="HeaderFiles"
+                   displayName="Header Files"
+                   projectFiles="true">
+      <logicalFolder name="app" displayName="app" projectFiles="true">
+        <itemPath>C:/FC_Dev3/app/app_globals.h</itemPath>
+        <itemPath>C:/FC_Dev3/app/app_includes.h</itemPath>
+        <itemPath>C:/FC_Dev3/app/app_inputs.h</itemPath>
+        <itemPath>C:/FC_Dev3/app/app_main.h</itemPath>
+        <itemPath>C:/FC_Dev3/app/app_memory.h</itemPath>
+        <itemPath>C:/FC_Dev3/app/conversions.h</itemPath>
+        <itemPath>C:/FC_Dev3/app/fluids.h</itemPath>
+        <itemPath>C:/FC_Dev3/app/report_mgr.h</itemPath>
+        <itemPath>C:/FC_Dev3/app/temp_in.h</itemPath>
+      </logicalFolder>
+      <logicalFolder name="f1" displayName="MMB" projectFiles="true">
+        <itemPath>MMB/SimpleUART.h</itemPath>
+        <itemPath>MMB/SerialFLASH.h</itemPath>
+        <itemPath>MMB/LCDTerminalFont-new.h</itemPath>
+        <itemPath>MMB/LCDTerminal.h</itemPath>
+        <itemPath>MMB/HardwareProfile-template.h</itemPath>
+        <itemPath>MMB/GraphicsConfig.h</itemPath>
+        <itemPath>MMB/GraphicsConfig-template.h</itemPath>
+        <itemPath>MMB/MMB.h</itemPath>
+      </logicalFolder>
+      <logicalFolder name="MODBUS_LIB" displayName="MODBUS_LIB" projectFiles="true">
+        <itemPath>LIBS/MODBUS_LIB/modbus.h</itemPath>
+      </logicalFolder>
+      <logicalFolder name="SYS_LIB" displayName="SYS_LIB" projectFiles="true">
+        <itemPath>LIBS/SYS_LIB/compairs.h</itemPath>
+        <itemPath>LIBS/SYS_LIB/digital.h</itemPath>
+        <itemPath>LIBS/SYS_LIB/mem_mgr.h</itemPath>
+        <itemPath>LIBS/SYS_LIB/msg_mgr.h</itemPath>
+        <itemPath>LIBS/SYS_LIB/ocm.h</itemPath>
+        <itemPath>LIBS/SYS_LIB/spi.h</itemPath>
+        <itemPath>LIBS/SYS_LIB/spi_memory.h</itemPath>
+        <itemPath>LIBS/SYS_LIB/sys_inputs.h</itemPath>
+        <itemPath>LIBS/SYS_LIB/sysglobals.h</itemPath>
+        <itemPath>LIBS/SYS_LIB/tacho.h</itemPath>
+        <itemPath>LIBS/SYS_LIB/time_date.h</itemPath>
+        <itemPath>LIBS/SYS_LIB/TouchScreen.h</itemPath>
+        <itemPath>LIBS/SYS_LIB/uarts.h</itemPath>
+      </logicalFolder>
+      <itemPath>../../Program Files/Microchip/MPLAB C32 Suite/pic32mx/include/plib.h</itemPath>
+      <itemPath>Microhip/Include/Graphics/DisplayDriver.h</itemPath>
+      <itemPath>Microhip/Include/Graphics/HX8347.h</itemPath>
+      <itemPath>LIBS/SYS_LIB/lcd_interface.h</itemPath>
+      <itemPath>Microhip/Include/Graphics/Primitive.h</itemPath>
+      <itemPath>LIBS/MENUS_LIB/tMenus.h</itemPath>
+      <itemPath>LIBS/WIFI_LIB/wifi.h</itemPath>
+    </logicalFolder>
+    <logicalFolder name="LibraryFiles"
+                   displayName="Library Files"
+                   projectFiles="true">
+    </logicalFolder>
+    <logicalFolder name="LinkerScript"
+                   displayName="Linker Files"
+                   projectFiles="true">
+    </logicalFolder>
+    <logicalFolder name="ObjectFiles"
+                   displayName="Object Files"
+                   projectFiles="true">
+    </logicalFolder>
+    <logicalFolder name="SourceFiles"
+                   displayName="Source Files"
+                   projectFiles="true">
+      <logicalFolder name="app_source" displayName="app_source" projectFiles="true">
+        <itemPath>C:/FC_Dev3/app/app_source/app_globals.c</itemPath>
+        <itemPath>C:/FC_Dev3/app/app_source/app_inputs.c</itemPath>
+        <itemPath>C:/FC_Dev3/app/app_source/app_main.c</itemPath>
+        <itemPath>C:/FC_Dev3/app/app_source/fluids.c</itemPath>
+        <itemPath>C:/FC_Dev3/app/app_source/interrupts.c</itemPath>
+        <itemPath>C:/FC_Dev3/app/app_source/pulsed_in.c</itemPath>
+        <itemPath>C:/FC_Dev3/app/app_source/report_mgr.c</itemPath>
+        <itemPath>C:/FC_Dev3/app/app_source/temp_in.c</itemPath>
+      </logicalFolder>
+      <logicalFolder name="Graphics" displayName="Graphics" projectFiles="true">
+        <logicalFolder name="Images" displayName="Images" projectFiles="true">
+          <logicalFolder name="icon" displayName="icon" projectFiles="true">
+          </logicalFolder>
+        </logicalFolder>
+        <logicalFolder name="Utilities" displayName="Utilities" projectFiles="true">
+          <logicalFolder name="External Memory Programmer"
+                         displayName="External Memory Programmer"
+                         projectFiles="true">
+          </logicalFolder>
+          <logicalFolder name="Graphics Resource Converter"
+                         displayName="Graphics Resource Converter"
+                         projectFiles="true">
+          </logicalFolder>
+        </logicalFolder>
+        <itemPath>Microhip/Graphics/DisplayDriver.c</itemPath>
+        <itemPath>Microhip/Graphics/Primitive.c</itemPath>
+      </logicalFolder>
+      <logicalFolder name="MENU_SOURCE" displayName="MENU_SOURCE" projectFiles="true">
+        <itemPath>LIBS/MENUS_LIB/MENU_SOURCE/tMenus.c</itemPath>
+      </logicalFolder>
+      <logicalFolder name="MMB" displayName="MMB" projectFiles="true">
+        <itemPath>MMB/LCDTerminal.c</itemPath>
+        <itemPath>MMB/LCDTerminalFont.c</itemPath>
+        <itemPath>MMB/MMB.C</itemPath>
+        <itemPath>MMB/SerialEEPROM.c</itemPath>
+      </logicalFolder>
+      <logicalFolder name="MODBUS_SOURCE"
+                     displayName="MODBUS_SOURCE"
+                     projectFiles="true">
+        <itemPath>LIBS/MODBUS_LIB/MODBUS_SOURCE/modbus.c</itemPath>
+      </logicalFolder>
+      <logicalFolder name="source" displayName="source" projectFiles="true">
+        <itemPath>C:/FC_Dev3/source/configuration_bits.c</itemPath>
+        <itemPath>C:/FC_Dev3/source/exceptions.c</itemPath>
+        <itemPath>C:/FC_Dev3/source/interrupts.c</itemPath>
+        <itemPath>C:/FC_Dev3/source/main.c</itemPath>
+      </logicalFolder>
+      <logicalFolder name="SYS_SOURCE" displayName="SYS_SOURCE" projectFiles="true">
+        <itemPath>LIBS/SYS_LIB/SYS_SOURCE/lcd_interface.c</itemPath>
+        <itemPath>LIBS/SYS_LIB/SYS_SOURCE/mem_mgr.c</itemPath>
+        <itemPath>LIBS/SYS_LIB/SYS_SOURCE/msg_mgr.c</itemPath>
+        <itemPath>LIBS/SYS_LIB/SYS_SOURCE/spi_memory.c</itemPath>
+        <itemPath>LIBS/SYS_LIB/SYS_SOURCE/sys_inputs.c</itemPath>
+        <itemPath>LIBS/SYS_LIB/SYS_SOURCE/systime_date.c</itemPath>
+        <itemPath>LIBS/SYS_LIB/SYS_SOURCE/TouchScreen.c</itemPath>
+        <itemPath>LIBS/SYS_LIB/SYS_SOURCE/uarts.c</itemPath>
+      </logicalFolder>
+      <logicalFolder name="WIFI_LIB" displayName="WIFI_LIB" projectFiles="true">
+        <itemPath>LIBS/WIFI_LIB/WIFI_SOURCE/wifi.c</itemPath>
+      </logicalFolder>
+    </logicalFolder>
+    <logicalFolder name="ExternalFiles"
+                   displayName="Important Files"
+                   projectFiles="false">
+      <itemPath>Makefile</itemPath>
+    </logicalFolder>
+    <itemPath>legal_disclaimer.txt</itemPath>
+    <itemPath>project_information.txt</itemPath>
+  </logicalFolder>
+  <sourceRootList>
+    <Elem>C:\FC_Dev3\../LIBS/MENUS_LIB/MENU_SOURCE</Elem>
+    <Elem>C:\FC_Dev3\../MMB</Elem>
+    <Elem>C:\FC_Dev3\../Microhip/Graphics</Elem>
+    <Elem>C:\FC_Dev3\MMB</Elem>
+    <Elem>C:\FC_Dev3\libs\SYS_LIB\SYS_SOURCE</Elem>
+    <Elem>C:\FC_Dev3\libs\WIFI_LIB</Elem>
+    <Elem>C:\FC_Dev3\source</Elem>
+    <Elem>C:\FC_Dev3\app</Elem>
+  </sourceRootList>
+  <projectmakefile>Makefile</projectmakefile>
+  <confs>
+    <conf name="default" type="2">
+      <toolsSet>
+        <developmentServer>localhost</developmentServer>
+        <targetDevice>PIC32MX795F512L</targetDevice>
+        <targetHeader></targetHeader>
+        <targetPluginBoard></targetPluginBoard>
+        <platformTool>ICD3PlatformTool</platformTool>
+        <languageToolchain>XC32</languageToolchain>
+        <languageToolchainVersion>1.20</languageToolchainVersion>
+        <platform>3</platform>
+      </toolsSet>
+      <compileType>
+        <linkerTool>
+          <linkerLibItems>
+          </linkerLibItems>
+        </linkerTool>
+        <loading>
+          <useAlternateLoadableFile>false</useAlternateLoadableFile>
+          <alternateLoadableFile></alternateLoadableFile>
+        </loading>
+      </compileType>
+      <makeCustomizationType>
+        <makeCustomizationPreStepEnabled>false</makeCustomizationPreStepEnabled>
+        <makeCustomizationPreStep></makeCustomizationPreStep>
+        <makeCustomizationPostStepEnabled>false</makeCustomizationPostStepEnabled>
+        <makeCustomizationPostStep></makeCustomizationPostStep>
+        <makeCustomizationPutChecksumInUserID>false</makeCustomizationPutChecksumInUserID>
+        <makeCustomizationEnableLongLines>false</makeCustomizationEnableLongLines>
+        <makeCustomizationNormalizeHexFile>false</makeCustomizationNormalizeHexFile>
+      </makeCustomizationType>
+      <C32>
+        <property key="additional-warnings" value="false"/>
+        <property key="enable-app-io" value="false"/>
+        <property key="enable-omit-frame-pointer" value="false"/>
+        <property key="enable-symbols" value="true"/>
+        <property key="enable-unroll-loops" value="false"/>
+        <property key="exclude-floating-point" value="false"/>
+        <property key="extra-include-directories"
+                  value="C:\Program Files\Microchip\xc32\v1.11\pic32mx\include;C:\MC_XProjects\Microhip\Include;C:\MC_XProjects\Microhip\Include\Graphics;C:\MC_XProjects\MMB;C:\MC_XProjects\LIBS\SYS_LIB"/>
+        <property key="generate-16-bit-code" value="false"/>
+        <property key="isolate-each-function" value="false"/>
+        <property key="make-warnings-into-errors" value="false"/>
+        <property key="optimization-level" value=""/>
+        <property key="place-data-into-section" value="false"/>
+        <property key="post-instruction-scheduling" value="default"/>
+        <property key="pre-instruction-scheduling" value="default"/>
+        <property key="preprocessor-macros" value=""/>
+        <property key="strict-ansi" value="false"/>
+        <property key="support-ansi" value="false"/>
+        <property key="use-cci" value="false"/>
+        <property key="use-indirect-calls" value="false"/>
+      </C32>
+      <C32-AS>
+        <property key="assembler-symbols" value=""/>
+        <property key="enable-symbols" value="true"/>
+        <property key="exclude-floating-point-library" value="false"/>
+        <property key="expand-macros" value="false"/>
+        <property key="extra-include-directories-for-assembler" value=""/>
+        <property key="extra-include-directories-for-preprocessor" value=""/>
+        <property key="false-conditionals" value="false"/>
+        <property key="keep-locals" value="false"/>
+        <property key="list-assembly" value="false"/>
+        <property key="list-source" value="false"/>
+        <property key="list-symbols" value="false"/>
+        <property key="oXC32asm-list-to-file" value="false"/>
+        <property key="omit-debug-dirs" value="false"/>
+        <property key="omit-forms" value="false"/>
+        <property key="preprocessor-macros" value=""/>
+        <property key="warning-level" value=""/>
+      </C32-AS>
+      <C32-LD>
+        <property key="enable-check-sections" value="false"/>
+        <property key="exclude-floating-point-library" value="false"/>
+        <property key="exclude-standard-libraries" value="false"/>
+        <property key="extra-lib-directories" value=""/>
+        <property key="generate-16-bit-code" value="false"/>
+        <property key="generate-cross-reference-file" value="false"/>
+        <property key="heap-size" value="128"/>
+        <property key="input-libraries" value=""/>
+        <property key="linker-symbols" value=""/>
+        <property key="map-file" value=""/>
+        <property key="no-startup-files" value="false"/>
+        <property key="optimization-level" value=""/>
+        <property key="preprocessor-macros" value=""/>
+        <property key="remove-unused-sections" value="false"/>
+        <property key="report-memory-usage" value="false"/>
+        <property key="stack-size" value=""/>
+        <property key="symbol-stripping" value=""/>
+        <property key="trace-symbols" value=""/>
+        <property key="warn-section-align" value="false"/>
+      </C32-LD>
+      <C32CPP>
+      </C32CPP>
+      <C32Global>
+        <property key="legacy-libc" value="false"/>
+      </C32Global>
+      <Simulator>
+      </Simulator>
+    </conf>
+  </confs>
+</configurationDescriptor>

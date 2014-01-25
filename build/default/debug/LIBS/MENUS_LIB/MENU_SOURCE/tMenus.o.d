@@ -1,0 +1,78 @@
+build/default/debug/LIBS/MENUS_LIB/MENU_SOURCE/tMenus.o:  \
+ LIBS/MENUS_LIB/MENU_SOURCE/tMenus.c  \
+ C:/Program\ Files/Microchip/xc32/v1.11/pic32mx/include/stdio.h  \
+ C:/Program\ Files/Microchip/xc32/v1.11/pic32mx/include/stddef.h  \
+ C:/Program\ Files/Microchip/xc32/v1.11/pic32mx/include/stdarg.h  \
+ C:/Program\ Files/Microchip/xc32/v1.11/pic32mx/include/stdlib.h  \
+ C:/Program\ Files/Microchip/xc32/v1.11/pic32mx/include/string.h  \
+ LIBS/MENUS_LIB/MENU_SOURCE/../../SYS_LIB/sysglobals.h  \
+ LIBS/MENUS_LIB/MENU_SOURCE/../../SYS_LIB/../../Microhip/Include/HardwareProfile.h  \
+ C:/Program\ Files/Microchip/xc32/v1.11/pic32mx/include/plib.h  \
+ C:/Program\ Files/Microchip/xc32/v1.11/pic32mx/include/peripheral/adc10.h  \
+ C:/Program\ Files/Microchip/xc32/v1.11/pic32mx/include/p32xxxx.h  \
+ C:/Program\ Files/Microchip/xc32/v1.11/pic32mx/include/xc.h  \
+ C:/Program\ Files/Microchip/xc32/v1.11/pic32mx/include/proc/p32mx795f512l.h  \
+ C:/Program\ Files/Microchip/xc32/v1.11/pic32mx/include/proc/ppic32mx.h  \
+ C:/Program\ Files/Microchip/xc32/v1.11/pic32mx/include/sys/appio.h  \
+ C:/Program\ Files/Microchip/xc32/v1.11/pic32mx/include/cp0defs.h  \
+ C:/Program\ Files/Microchip/xc32/v1.11/pic32mx/include/peripheral/int.h  \
+ C:/Program\ Files/Microchip/xc32/v1.11/pic32mx/include/sys/attribs.h  \
+ C:/Program\ Files/Microchip/xc32/v1.11/pic32mx/include/peripheral/int_5xx_6xx_7xx.h  \
+ C:/Program\ Files/Microchip/xc32/v1.11/pic32mx/include/peripheral/legacy/int_5xx_6xx_7xx_legacy.h  \
+ C:/Program\ Files/Microchip/xc32/v1.11/pic32mx/include/peripheral/legacy/int_legacy.h  \
+ C:/Program\ Files/Microchip/xc32/v1.11/pic32mx/include/peripheral/bmx.h  \
+ C:/Program\ Files/Microchip/xc32/v1.11/pic32mx/include/peripheral/cmp.h  \
+ C:/Program\ Files/Microchip/xc32/v1.11/pic32mx/include/peripheral/cvref.h  \
+ C:/Program\ Files/Microchip/xc32/v1.11/pic32mx/include/peripheral/dma.h  \
+ C:/Program\ Files/Microchip/xc32/v1.11/pic32mx/include/peripheral/dma_5xx_6xx_7xx.h  \
+ C:/Program\ Files/Microchip/xc32/v1.11/pic32mx/include/peripheral/legacy/dma_legacy.h  \
+ C:/Program\ Files/Microchip/xc32/v1.11/pic32mx/include/peripheral/i2c.h  \
+ C:/Program\ Files/Microchip/xc32/v1.11/pic32mx/include/GenericTypeDefs.h  \
+ C:/Program\ Files/Microchip/xc32/v1.11/pic32mx/include/peripheral/legacy/i2c_legacy.h  \
+ C:/Program\ Files/Microchip/xc32/v1.11/pic32mx/include/peripheral/incap.h  \
+ C:/Program\ Files/Microchip/xc32/v1.11/pic32mx/include/peripheral/nvm.h  \
+ C:/Program\ Files/Microchip/xc32/v1.11/pic32mx/include/sys/kmem.h  \
+ C:/Program\ Files/Microchip/xc32/v1.11/pic32mx/include/peripheral/outcompare.h  \
+ C:/Program\ Files/Microchip/xc32/v1.11/pic32mx/include/peripheral/pcache.h  \
+ C:/Program\ Files/Microchip/xc32/v1.11/pic32mx/include/peripheral/pmp.h  \
+ C:/Program\ Files/Microchip/xc32/v1.11/pic32mx/include/peripheral/ports.h  \
+ C:/Program\ Files/Microchip/xc32/v1.11/pic32mx/include/peripheral/SPI_Port_Mappings.h  \
+ C:/Program\ Files/Microchip/xc32/v1.11/pic32mx/include/peripheral/Ethernet_Port_Mappings.h  \
+ C:/Program\ Files/Microchip/xc32/v1.11/pic32mx/include/peripheral/pps.h  \
+ C:/Program\ Files/Microchip/xc32/v1.11/pic32mx/include/peripheral/power.h  \
+ C:/Program\ Files/Microchip/xc32/v1.11/pic32mx/include/peripheral/reset.h  \
+ C:/Program\ Files/Microchip/xc32/v1.11/pic32mx/include/peripheral/lock.h  \
+ C:/Program\ Files/Microchip/xc32/v1.11/pic32mx/include/peripheral/rtcc.h  \
+ C:/Program\ Files/Microchip/xc32/v1.11/pic32mx/include/peripheral/legacy/rtcc_legacy.h  \
+ C:/Program\ Files/Microchip/xc32/v1.11/pic32mx/include/peripheral/spi.h  \
+ C:/Program\ Files/Microchip/xc32/v1.11/pic32mx/include/peripheral/spi_5xx_6xx_7xx.h  \
+ C:/Program\ Files/Microchip/xc32/v1.11/pic32mx/include/peripheral/legacy/spi_legacy.h  \
+ C:/Program\ Files/Microchip/xc32/v1.11/pic32mx/include/peripheral/system.h  \
+ C:/Program\ Files/Microchip/xc32/v1.11/pic32mx/include/peripheral/osc.h  \
+ C:/Program\ Files/Microchip/xc32/v1.11/pic32mx/include/peripheral/timer.h  \
+ C:/Program\ Files/Microchip/xc32/v1.11/pic32mx/include/peripheral/uart.h  \
+ C:/Program\ Files/Microchip/xc32/v1.11/pic32mx/include/peripheral/legacy/uart_legacy.h  \
+ C:/Program\ Files/Microchip/xc32/v1.11/pic32mx/include/peripheral/wdt.h  \
+ C:/Program\ Files/Microchip/xc32/v1.11/pic32mx/include/peripheral/eth.h  \
+ C:/Program\ Files/Microchip/xc32/v1.11/pic32mx/include/peripheral/legacy/eth_legacy.h  \
+ C:/Program\ Files/Microchip/xc32/v1.11/pic32mx/include/peripheral/CAN.h  \
+ C:/Program\ Files/Microchip/MPLAB\ C32\ Suite/pic32mx/include/proc/p32mx795f512l.h  \
+ LIBS/MENUS_LIB/MENU_SOURCE/../../../LIBS/SYS_LIB/c_uart.h  \
+ LIBS/MENUS_LIB/MENU_SOURCE/../../../LIBS/SYS_LIB/sysglobals.h  \
+ LIBS/MENUS_LIB/MENU_SOURCE/../../../Microhip/Include/Graphics/Graphics.h  \
+ LIBS/MENUS_LIB/MENU_SOURCE/../../../Microhip/Include/Graphics/GraphicsConfig.h  \
+ LIBS/MENUS_LIB/MENU_SOURCE/../../../Microhip/Include/Graphics/../HardwareProfile.h  \
+ LIBS/MENUS_LIB/MENU_SOURCE/../../../Microhip/Include/Graphics/DisplayDriver.h  \
+ LIBS/MENUS_LIB/MENU_SOURCE/../../../Microhip/Include/Graphics/HX8347.h  \
+ LIBS/MENUS_LIB/MENU_SOURCE/../../../Microhip/Include/Graphics/Primitive.h  \
+ LIBS/MENUS_LIB/MENU_SOURCE/../../../Microhip/Include/Graphics/ScanCodes.h  \
+ LIBS/MENUS_LIB/MENU_SOURCE/../../../LIBS/SYS_LIB/lcd_interface.h  \
+ LIBS/MENUS_LIB/MENU_SOURCE/../../../LIBS/SYS_LIB/../../Microhip/Include/Graphics/Graphics.h  \
+ LIBS/MENUS_LIB/MENU_SOURCE/../../../LIBS/SYS_LIB/../../Microhip/Include/Graphics/Primitive.h  \
+ LIBS/MENUS_LIB/MENU_SOURCE/../../../LIBS/SYS_LIB/../../MMB/LCDTerminal.h  \
+ LIBS/MENUS_LIB/MENU_SOURCE/../../../LIBS/SYS_LIB/../../MMB/../Microhip/Include/Graphics/Graphics.h  \
+ LIBS/MENUS_LIB/MENU_SOURCE/../../../LIBS/SYS_LIB/../../MMB/../Microhip/Include/Graphics/Primitive.h  \
+ LIBS/MENUS_LIB/MENU_SOURCE/../../../LIBS/SYS_LIB/../../MMB/SerialEEPROM.h  \
+ LIBS/MENUS_LIB/MENU_SOURCE/../../../LIBS/SYS_LIB/../../MMB/../LIBS/SYS_LIB/sysglobals.h  \
+ LIBS/MENUS_LIB/MENU_SOURCE/../tMenus.h  \
+ LIBS/MENUS_LIB/MENU_SOURCE/../../SYS_LIB/sysglobals.h 
